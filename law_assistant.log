@@ -1,0 +1,165 @@
+2025-04-26 20:45:24,227 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.7.123:5000
+2025-04-26 20:45:24,227 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 20:45:24,233 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:45:24,730 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:45:24,737 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:45:44,397 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.7.123:5000
+2025-04-26 20:45:44,401 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 20:45:44,405 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:45:44,858 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:45:44,863 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:48:13,963 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.7.123:5000
+2025-04-26 20:48:13,963 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 20:48:13,963 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:48:14,428 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:48:14,438 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:49:28,428 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.7.123:5000
+2025-04-26 20:49:28,428 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 20:49:28,433 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:49:29,167 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:49:29,198 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:49:35,866 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:49:35] "GET / HTTP/1.1" 200 -
+2025-04-26 20:49:35,936 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:49:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-26 20:49:38,766 - IndianLawAssistant - INFO - Received query: What are my rights if arrested?
+2025-04-26 20:49:38,766 - IndianLawAssistant - INFO - Using fallback response for topic: rights if arrested
+2025-04-26 20:49:38,767 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:49:38] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:49:41,984 - IndianLawAssistant - INFO - Received query: How to file an RTI application?
+2025-04-26 20:49:41,985 - IndianLawAssistant - INFO - Using fallback response for topic: rti act
+2025-04-26 20:49:41,985 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:49:41] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:50:05,379 - IndianLawAssistant - INFO - Received query: if i am 17 years old then can i go to court for hearing
+2025-04-26 20:50:07,454 - IndianLawAssistant - INFO - API Status Code: 404
+2025-04-26 20:50:07,463 - IndianLawAssistant - WARNING - Attempt 1 failed: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:50:11,551 - IndianLawAssistant - INFO - API Status Code: 404
+2025-04-26 20:50:11,551 - IndianLawAssistant - WARNING - Attempt 2 failed: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:50:15,648 - IndianLawAssistant - INFO - API Status Code: 404
+2025-04-26 20:50:15,648 - IndianLawAssistant - WARNING - Attempt 3 failed: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:50:15,653 - IndianLawAssistant - ERROR - Error processing query: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:50:15,655 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:50:15] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:50:32,926 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Mohit Sharma\\OneDrive\\projects\\indianlaws project\\app.py', reloading
+2025-04-26 20:50:33,029 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:50:33,737 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:50:33,744 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:51:30,903 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Mohit Sharma\\OneDrive\\projects\\indianlaws project\\app.py', reloading
+2025-04-26 20:51:31,006 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:51:31,669 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:51:31,670 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:51:41,579 - IndianLawAssistant - INFO - Received query: what is tallak
+2025-04-26 20:51:43,477 - IndianLawAssistant - INFO - API Status Code: 404
+2025-04-26 20:51:43,477 - IndianLawAssistant - WARNING - Attempt 1 failed: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:51:45,390 - IndianLawAssistant - INFO - Received query: what is talaak
+2025-04-26 20:51:47,139 - IndianLawAssistant - INFO - API Status Code: 404
+2025-04-26 20:51:47,139 - IndianLawAssistant - WARNING - Attempt 1 failed: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:51:47,239 - IndianLawAssistant - INFO - API Status Code: 404
+2025-04-26 20:51:47,241 - IndianLawAssistant - WARNING - Attempt 2 failed: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:51:51,057 - IndianLawAssistant - INFO - API Status Code: 404
+2025-04-26 20:51:51,057 - IndianLawAssistant - INFO - API Status Code: 404
+2025-04-26 20:51:51,064 - IndianLawAssistant - WARNING - Attempt 2 failed: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:51:51,066 - IndianLawAssistant - WARNING - Attempt 3 failed: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:51:51,069 - IndianLawAssistant - ERROR - Error processing query: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:51:51,078 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:51:51] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:51:54,815 - IndianLawAssistant - INFO - API Status Code: 404
+2025-04-26 20:51:54,817 - IndianLawAssistant - WARNING - Attempt 3 failed: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:51:54,817 - IndianLawAssistant - ERROR - Error processing query: API error: 404 - models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:51:54,824 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:51:54] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:52:46,313 - IndianLawAssistant - INFO - Received query: Hindu inheritance laws for property
+2025-04-26 20:52:46,313 - IndianLawAssistant - INFO - Using fallback response for topic: inheritance laws
+2025-04-26 20:52:46,319 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:52:46] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:52:58,331 - IndianLawAssistant - INFO - Received query: what is article 370 a
+2025-04-26 20:52:58,333 - IndianLawAssistant - INFO - Using fallback response for topic: rti act
+2025-04-26 20:52:58,337 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:52:58] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:53:05,029 - IndianLawAssistant - INFO - Received query: what is article 370 a
+2025-04-26 20:53:05,029 - IndianLawAssistant - INFO - Using fallback response for topic: rti act
+2025-04-26 20:53:05,032 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:53:05] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:55:07,522 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Mohit Sharma\\OneDrive\\projects\\indianlaws project\\app.py', reloading
+2025-04-26 20:55:07,597 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:55:08,326 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:55:08,330 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:55:36,885 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Mohit Sharma\\OneDrive\\projects\\indianlaws project\\app.py', reloading
+2025-04-26 20:55:36,990 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:55:37,716 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:55:37,723 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:55:46,890 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.7.123:5000
+2025-04-26 20:55:46,890 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 20:55:46,890 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:55:47,348 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:55:47,348 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:55:54,998 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:55:54] "GET / HTTP/1.1" 200 -
+2025-04-26 20:55:57,324 - IndianLawAssistant - INFO - Received query: What are my rights if arrested?
+2025-04-26 20:55:57,324 - IndianLawAssistant - INFO - Using fallback for topic: rights if arrested
+2025-04-26 20:55:57,333 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:55:57] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:56:16,811 - IndianLawAssistant - INFO - Received query: if i am 16 years old can i hear in the court
+2025-04-26 20:56:18,966 - IndianLawAssistant - WARNING - API attempt 1 failed: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:56:22,856 - IndianLawAssistant - WARNING - API attempt 2 failed: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:56:26,855 - IndianLawAssistant - WARNING - API attempt 3 failed: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:56:26,856 - IndianLawAssistant - ERROR - Error processing query: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 20:56:26,863 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:56:26] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:57:33,135 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Mohit Sharma\\OneDrive\\projects\\indianlaws project\\app.py', reloading
+2025-04-26 20:57:33,232 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:57:33,901 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:57:33,908 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:58:16,513 - IndianLawAssistant - INFO - Received query: How to file an RTI application?
+2025-04-26 20:58:16,515 - IndianLawAssistant - INFO - Using fallback for topic: rti act
+2025-04-26 20:58:16,521 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:58:16] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:59:48,906 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.7.123:5000
+2025-04-26 20:59:48,906 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 20:59:48,911 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 20:59:49,353 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 20:59:49,367 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 20:59:53,535 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:59:53] "GET / HTTP/1.1" 200 -
+2025-04-26 20:59:55,337 - IndianLawAssistant - INFO - Received query: How to file RTI
+2025-04-26 20:59:55,337 - IndianLawAssistant - INFO - Using fallback for topic: rti act
+2025-04-26 20:59:55,337 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:59:55] "POST /query HTTP/1.1" 200 -
+2025-04-26 20:59:59,012 - IndianLawAssistant - INFO - Received query: Reporting cyber crime
+2025-04-26 20:59:59,015 - IndianLawAssistant - INFO - Using fallback for topic: rti act
+2025-04-26 20:59:59,020 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 20:59:59] "POST /query HTTP/1.1" 200 -
+2025-04-26 21:00:14,930 - IndianLawAssistant - INFO - Received query: what are my rights if i arrested
+2025-04-26 21:00:14,932 - IndianLawAssistant - INFO - Using fallback for topic: rights if arrested
+2025-04-26 21:00:14,937 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:00:14] "POST /query HTTP/1.1" 200 -
+2025-04-26 21:00:54,069 - IndianLawAssistant - INFO - Received query: Family laws
+2025-04-26 21:00:54,070 - IndianLawAssistant - INFO - Using fallback for topic: family laws
+2025-04-26 21:00:54,073 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:00:54] "POST /query HTTP/1.1" 200 -
+2025-04-26 21:01:29,175 - IndianLawAssistant - INFO - Received query: what is muslim law
+2025-04-26 21:01:31,698 - IndianLawAssistant - WARNING - API attempt 1 failed: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 21:01:35,590 - IndianLawAssistant - WARNING - API attempt 2 failed: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 21:01:39,480 - IndianLawAssistant - WARNING - API attempt 3 failed: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 21:01:39,480 - IndianLawAssistant - ERROR - Error processing query: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 21:01:39,488 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:01:39] "POST /query HTTP/1.1" 200 -
+2025-04-26 21:02:35,533 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Mohit Sharma\\OneDrive\\projects\\indianlaws project\\app.py', reloading
+2025-04-26 21:02:35,641 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 21:02:36,358 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 21:02:36,367 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 21:02:45,991 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.7.123:5000
+2025-04-26 21:02:45,997 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 21:02:45,998 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 21:02:46,575 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 21:02:46,582 - werkzeug - INFO -  * Debugger PIN: 408-928-918
+2025-04-26 21:02:52,957 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:02:52] "GET / HTTP/1.1" 200 -
+2025-04-26 21:03:00,236 - IndianLawAssistant - INFO - Received query: what is muslim law
+2025-04-26 21:03:01,963 - IndianLawAssistant - WARNING - API attempt 1 failed: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 21:03:05,903 - IndianLawAssistant - WARNING - API attempt 2 failed: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 21:03:08,402 - IndianLawAssistant - WARNING - API attempt 3 failed: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 21:03:08,407 - IndianLawAssistant - ERROR - Error processing query: API error 404: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-26 21:03:08,411 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 21:03:08] "POST /query HTTP/1.1" 200 -
+2025-04-26 21:03:58,114 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Mohit Sharma\\OneDrive\\projects\\indianlaws project\\app.py', reloading
+2025-04-26 21:03:58,184 - werkzeug - INFO -  * Restarting with stat
